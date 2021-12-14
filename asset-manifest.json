@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.16884698.chunk.css",
+    "main.js": "/static/js/main.8c24f424.chunk.js",
+    "main.js.map": "/static/js/main.8c24f424.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a1bdc171.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a1bdc171.js.map",
+    "static/js/2.0726f7ff.chunk.js": "/static/js/2.0726f7ff.chunk.js",
+    "static/js/2.0726f7ff.chunk.js.map": "/static/js/2.0726f7ff.chunk.js.map",
+    "static/js/3.d7c6b15c.chunk.js": "/static/js/3.d7c6b15c.chunk.js",
+    "static/js/3.d7c6b15c.chunk.js.map": "/static/js/3.d7c6b15c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.16884698.chunk.css.map": "/static/css/main.16884698.chunk.css.map",
+    "static/js/2.0726f7ff.chunk.js.LICENSE.txt": "/static/js/2.0726f7ff.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/backImage.4d48f80b.png",
+    "static/media/Form.module.css": "/static/media/checkmark.4dff115c.svg",
+    "static/media/success.bc50d31c.svg": "/static/media/success.bc50d31c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1bdc171.js",
+    "static/js/2.0726f7ff.chunk.js",
+    "static/css/main.16884698.chunk.css",
+    "static/js/main.8c24f424.chunk.js"
+  ]
+}
